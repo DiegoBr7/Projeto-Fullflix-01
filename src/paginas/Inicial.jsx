@@ -17,7 +17,7 @@ import { useEffect, useState } from "react";
             <h2>Filmes Populares(div dos cards)</h2>
             <Cards/>
           </div>
-          <Footer texto="Chorei Largado"  />
+          <Footer texto="aaaaaaaaaaaaaaaaaaa"  />
         </div>
         
     )
